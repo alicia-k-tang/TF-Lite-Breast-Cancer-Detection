@@ -1,7 +1,6 @@
 ADAN 8888 Breast Cancer Detection with TFLite
 ==============================
-
-Breast cancer detection with TF Lite
+Advancing Breast Cancer Detection with AI and TensorFlow Lite for Real-Time Detection and Improved Patient Outcomes
 
 Project Organization
 ------------
@@ -50,6 +49,7 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+9/11/2024: The following unnecessary root files were deleted: (.gitignore, License, makefile, setup.py, test_environment.py, tox.ini). These files will not be used for this project.
 
 
 --------
