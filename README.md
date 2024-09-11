@@ -49,7 +49,7 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-9/11/2024: The following unnecessary root files were deleted: (.gitignore, License, makefile, setup.py, test_environment.py, tox.ini). These files will not be used for this project.
+**9/11/2024:** Unnecessary root files were deleted including .gitignore, License, makefile, setup.py, test_environment.py, and tox.ini. These files will not be used for this project.
 
 
 --------
